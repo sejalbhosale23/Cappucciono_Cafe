@@ -14,8 +14,13 @@ Lifestyle
 2. Static web Application
 
 # Problem Statement
+Cappuccino Cafe is a popular local coffee shop, but it struggles to attract new customers and maintain customer loyalty due to a lack of online presence. With the increasing reliance on technology and the growing trend of online ordering, the cafe needs a website to compete with other coffee shops in the area. By creating a website, Cappuccino Cafe can showcase its menu, ambiance, and staff, and provide customers with an easy way to place orders, make reservations, and provide feedback. The website will also enable the cafe to engage with customers and promote its promotions and events, ultimately leading to increased revenue and customer satisfaction.
 
 # Project Description
+The project's objective is to build Cappuccino Cafe a website that will help it establish an online presence and increase consumer involvement. The website will be made to allow consumers to easily place orders, book reservations, and leave reviews while also showcasing the cafe's cuisine, employees, ambiance, promotions, and events. In order to assure scalability and dependability, the website will be created utilizing the most recent web development technologies, including HTML, CSS, JavaScript, and PHP, and it will be hosted on a cloud platform.
+The website will have a simple, intuitive user interface that is accessible and easy to use on all platforms, including desktop, tablet, and mobile. The cafe's home page will have a captivating hero image, a synopsis of the cafe's history and core principles, and highlights from the menu. All of the goods offered at Cappuccino Cafe will be listed on the menu page, along with their prices and descriptions, and they will be divided into sections such as appetizers, entrees, desserts, and drinks.
+The about us page will contain details about the proprietors and employees, their love of delivering high-quality meals and beverages, and the cafe's dedication to environmental responsibility. Customers can leave feedback and provide recommendations for the cafe on the feedback page, while the contact us page will have a contact form, a phone number, an email address, and a physical address.
+To maintain the privacy and security of user data, the website will be search engine optimized, integrated with social networking platforms, and secured with SSL encryption.
 
 # Github URL
 https://github.com/sejalbhosale23/Cappucciono_Cafe
