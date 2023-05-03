@@ -50,3 +50,7 @@ here is an updated step-by-step guide to try database connectivity in this proje
 7. In the Contact Us page, enter the required data and click on "Submit". This will trigger a database query to the Azure MySQL database.
 
 8. To check the implementation of the Azure MySQL database, you can view the data that was inserted into the database by logging into the Azure portal and navigating to the MySQL database. From there, you can view the data that was inserted and ensure that the database connectivity is working as expected.
+
+
+#Screenshots related to Database Service
+![image](https://user-images.githubusercontent.com/125639259/235873812-286ebf59-9cee-4c33-bb9e-37e63afcfa17.png)
